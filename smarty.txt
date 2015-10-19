@@ -1,0 +1,2 @@
+	{assign var=categoria value='asdfasdf'}
+	{$categoria|@print_r}

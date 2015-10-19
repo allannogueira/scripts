@@ -1,0 +1,7 @@
+//acesso externo, substituir aspas por dados de acesso.
+mysql -h "189.168.185.15" -u "usuario" -p"senha" 
+
+//seleciona banco 
+use "bancodados"
+
+
